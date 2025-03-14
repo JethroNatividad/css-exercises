@@ -1,0 +1,19 @@
+body *:nth-child(odd) {
+  background-color: rgb(255, 130, 157);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+  color: rgb(24, 24, 25);
+  font-size: 36px;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#four {
+  background: rgb(149, 255, 149);
+  font-size: 24px;
+  font-weight: 700;
+}
